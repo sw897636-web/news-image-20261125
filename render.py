@@ -132,7 +132,7 @@ stories = [
     ("LATIN AMERICA", "HOSTAGE STANDOFF IN CARTAGENA",
      "A gunman fled a van robbery into a Cartagena Exito supermarket, "
      "holding about 25 people after freeing five older women.", INK),
-    ("GLOBAL  ·  SOCIETY", "ONE WOMAN KILLED EVERY HOUR IN 2025",
+    ("GLOBAL  ·  SOCIETY", "FIVE WOMEN KILLED EVERY HOUR IN 2025",
      "A UN report finds that on average five women an hour were killed "
      "by a partner or a relative in 2025.", INK),
     ("USA  ·  LIGHTER SIDE", "TRUMP PARDONS THANKSGIVING TURKEY",
